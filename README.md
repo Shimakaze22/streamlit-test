@@ -1,0 +1,1 @@
+使用Yahoo finense的台灣股價資料，進行Streamlit套件股價的可視化的演練
